@@ -8,4 +8,4 @@
 Exposition intérieure et permanente visitée le 30 Janvier 2025.
 
 # <ins>Meca500</ins>
-<img src=".medias/images/csm_meca500(2).JPG" width="50%">
+<img src="./medias/images/csm_meca500(2).JPG" width="50%">
