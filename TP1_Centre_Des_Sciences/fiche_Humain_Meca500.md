@@ -20,7 +20,9 @@ Dispositif conçu, fabriqué et assemblé par Mecademic en 2021.
 
 Le dispositif présente un robot qui a des capacités de recréer des mouvement irréalisables par l'humain, à l'aide de technologies, comme par exemple insérer des pièces, danser, souder et bien plus.
 
-Le dispositif est présent au deuxième étage du Centre des Sciences, dans la section Humains du Centre.
+Le dispositif est présent au deuxième étage du Centre des Sciences, dans la section Humains du Centre. Cette exposition est permanente et intérieure.
+
+Ce dispositif est interactif.
 
 ## Matériel, composition & capacités du dispositif
 Le dispositif a de nombreux attraits comme:
